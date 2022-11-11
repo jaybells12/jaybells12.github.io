@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4142f4db.css",
-    "main.js": "/static/js/main.b081be78.js",
+    "main.css": "/static/css/main.bab80688.css",
+    "main.js": "/static/js/main.40e92d1c.js",
     "static/media/SourceCodePro-Black.otf": "/static/media/SourceCodePro-Black.9bbbd0b95cc441dbddd4.otf",
     "static/media/SourceCodePro-Bold.otf": "/static/media/SourceCodePro-Bold.b2ee254be604ceac7e86.otf",
     "static/media/SourceCodePro-Semibold.otf": "/static/media/SourceCodePro-Semibold.982f66f2db3556232912.otf",
@@ -37,11 +37,11 @@
     "static/media/logo-cp.svg": "/static/media/logo-cp.289842834ad5acd5936b24e8241f5e24.svg",
     "static/media/cert-udemy.svg": "/static/media/cert-udemy.303db97d962ca18a97a4afd921fd3603.svg",
     "static/media/logo-li.svg": "/static/media/logo-li.f6cbd96353ebcd7bdd762ebe35e6c38c.svg",
-    "main.4142f4db.css.map": "/static/css/main.4142f4db.css.map",
-    "main.b081be78.js.map": "/static/js/main.b081be78.js.map"
+    "main.bab80688.css.map": "/static/css/main.bab80688.css.map",
+    "main.40e92d1c.js.map": "/static/js/main.40e92d1c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4142f4db.css",
-    "static/js/main.b081be78.js"
+    "static/css/main.bab80688.css",
+    "static/js/main.40e92d1c.js"
   ]
 }
